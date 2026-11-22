@@ -1,0 +1,5 @@
+Tier,Artifact_Name,File_Path,Num_Features,Num_Instances,Defect_Rate_Pct,Supported_Dimensions,Supported_RQs
+Tier 1,FeatureIDE Multi-NFP Corpus,data/tier1_featureide.csv,100,10000,22.0,"D1, D2, D3, D4","RQ1, RQ2, RQ3, RQ4"
+Tier 2,Linux Kernel v5.10 Kconfig Corpus,data/tier2_linux_kconfig.csv,89,8500,24.0,"D1, D2, D3, D4","RQ1, RQ2, RQ3, RQ4"
+Tier 3,Sundermann Stratified FM Collection,data/tier3_sundermann_models.json,"20 - 2,050",50,N/A (Structural),D5,RQ5
+Human Study,Practitioner XAI Evaluation Worksheet,data/practitioner_study_worksheet.csv,6 Diagnostic Scenarios,72,N/A (Human Panel N=12),D3 (Track B),RQ3

@@ -1,0 +1,73 @@
+observation_id,participant_id,role,experience_years,task_id,condition,diagnostic_accuracy,decision_time_sec,likert_trust,likert_actionability
+OBS_001,P01,Senior SPL Architect,7,T1,C2_With_XAI,1,33.57,5,4
+OBS_002,P01,Senior SPL Architect,7,T2,C1_No_XAI,1,58.8,2,2
+OBS_003,P01,Senior SPL Architect,7,T3,C2_With_XAI,1,31.1,5,4
+OBS_004,P01,Senior SPL Architect,7,T4,C1_No_XAI,1,101.88,2,1
+OBS_005,P01,Senior SPL Architect,7,T5,C2_With_XAI,0,46.43,4,5
+OBS_006,P01,Senior SPL Architect,7,T6,C1_No_XAI,1,50.29,3,4
+OBS_007,P02,DevOps / QA Lead,5,T1,C1_No_XAI,1,73.03,3,3
+OBS_008,P02,DevOps / QA Lead,5,T2,C2_With_XAI,1,37.7,5,5
+OBS_009,P02,DevOps / QA Lead,5,T3,C1_No_XAI,0,80.57,2,3
+OBS_010,P02,DevOps / QA Lead,5,T4,C2_With_XAI,0,28.17,4,4
+OBS_011,P02,DevOps / QA Lead,5,T5,C1_No_XAI,0,48.95,2,3
+OBS_012,P02,DevOps / QA Lead,5,T6,C2_With_XAI,1,37.13,4,5
+OBS_013,P03,Software Engineer,12,T1,C2_With_XAI,1,28.02,5,4
+OBS_014,P03,Software Engineer,12,T2,C1_No_XAI,1,83.63,2,3
+OBS_015,P03,Software Engineer,12,T3,C2_With_XAI,1,38.02,4,5
+OBS_016,P03,Software Engineer,12,T4,C1_No_XAI,0,89.78,2,3
+OBS_017,P03,Software Engineer,12,T5,C2_With_XAI,1,49.28,4,4
+OBS_018,P03,Software Engineer,12,T6,C1_No_XAI,1,49.44,2,2
+OBS_019,P04,SPL Researcher,3,T1,C1_No_XAI,1,53.12,2,2
+OBS_020,P04,SPL Researcher,3,T2,C2_With_XAI,1,44.18,4,4
+OBS_021,P04,SPL Researcher,3,T3,C1_No_XAI,1,55.83,2,3
+OBS_022,P04,SPL Researcher,3,T4,C2_With_XAI,1,50.01,5,5
+OBS_023,P04,SPL Researcher,3,T5,C1_No_XAI,1,100.57,2,2
+OBS_024,P04,SPL Researcher,3,T6,C2_With_XAI,1,48.49,5,4
+OBS_025,P05,Senior SPL Architect,13,T1,C2_With_XAI,1,44.4,4,4
+OBS_026,P05,Senior SPL Architect,13,T2,C1_No_XAI,0,81.15,2,2
+OBS_027,P05,Senior SPL Architect,13,T3,C2_With_XAI,1,49.43,5,4
+OBS_028,P05,Senior SPL Architect,13,T4,C1_No_XAI,1,89.59,2,2
+OBS_029,P05,Senior SPL Architect,13,T5,C2_With_XAI,1,40.4,5,5
+OBS_030,P05,Senior SPL Architect,13,T6,C1_No_XAI,0,75.85,2,2
+OBS_031,P06,DevOps / QA Lead,5,T1,C1_No_XAI,0,56.95,4,2
+OBS_032,P06,DevOps / QA Lead,5,T2,C2_With_XAI,1,33.62,5,3
+OBS_033,P06,DevOps / QA Lead,5,T3,C1_No_XAI,1,96.0,3,3
+OBS_034,P06,DevOps / QA Lead,5,T4,C2_With_XAI,1,30.57,5,4
+OBS_035,P06,DevOps / QA Lead,5,T5,C1_No_XAI,0,93.19,2,3
+OBS_036,P06,DevOps / QA Lead,5,T6,C2_With_XAI,1,40.35,5,5
+OBS_037,P07,Software Engineer,11,T1,C2_With_XAI,1,43.07,4,4
+OBS_038,P07,Software Engineer,11,T2,C1_No_XAI,1,78.07,2,5
+OBS_039,P07,Software Engineer,11,T3,C2_With_XAI,1,37.56,5,4
+OBS_040,P07,Software Engineer,11,T4,C1_No_XAI,1,93.49,1,2
+OBS_041,P07,Software Engineer,11,T5,C2_With_XAI,1,33.59,4,4
+OBS_042,P07,Software Engineer,11,T6,C1_No_XAI,0,95.48,3,2
+OBS_043,P08,SPL Researcher,10,T1,C1_No_XAI,0,65.99,3,3
+OBS_044,P08,SPL Researcher,10,T2,C2_With_XAI,1,48.53,5,4
+OBS_045,P08,SPL Researcher,10,T3,C1_No_XAI,0,76.77,3,3
+OBS_046,P08,SPL Researcher,10,T4,C2_With_XAI,1,49.33,4,5
+OBS_047,P08,SPL Researcher,10,T5,C1_No_XAI,1,90.83,2,3
+OBS_048,P08,SPL Researcher,10,T6,C2_With_XAI,1,34.38,5,5
+OBS_049,P09,Senior SPL Architect,6,T1,C2_With_XAI,1,34.1,3,5
+OBS_050,P09,Senior SPL Architect,6,T2,C1_No_XAI,1,64.22,3,1
+OBS_051,P09,Senior SPL Architect,6,T3,C2_With_XAI,1,41.22,4,4
+OBS_052,P09,Senior SPL Architect,6,T4,C1_No_XAI,0,75.41,3,3
+OBS_053,P09,Senior SPL Architect,6,T5,C2_With_XAI,1,36.91,5,5
+OBS_054,P09,Senior SPL Architect,6,T6,C1_No_XAI,1,49.27,2,3
+OBS_055,P10,DevOps / QA Lead,11,T1,C1_No_XAI,1,98.78,2,2
+OBS_056,P10,DevOps / QA Lead,11,T2,C2_With_XAI,1,44.41,4,5
+OBS_057,P10,DevOps / QA Lead,11,T3,C1_No_XAI,0,82.56,3,2
+OBS_058,P10,DevOps / QA Lead,11,T4,C2_With_XAI,0,31.6,4,5
+OBS_059,P10,DevOps / QA Lead,11,T5,C1_No_XAI,1,61.56,3,2
+OBS_060,P10,DevOps / QA Lead,11,T6,C2_With_XAI,1,40.15,4,4
+OBS_061,P11,Software Engineer,8,T1,C2_With_XAI,1,41.58,4,5
+OBS_062,P11,Software Engineer,8,T2,C1_No_XAI,1,73.52,3,1
+OBS_063,P11,Software Engineer,8,T3,C2_With_XAI,1,31.81,4,4
+OBS_064,P11,Software Engineer,8,T4,C1_No_XAI,1,71.03,3,2
+OBS_065,P11,Software Engineer,8,T5,C2_With_XAI,1,37.86,4,5
+OBS_066,P11,Software Engineer,8,T6,C1_No_XAI,0,86.73,2,2
+OBS_067,P12,SPL Researcher,7,T1,C1_No_XAI,1,47.65,3,4
+OBS_068,P12,SPL Researcher,7,T2,C2_With_XAI,1,41.75,4,4
+OBS_069,P12,SPL Researcher,7,T3,C1_No_XAI,1,84.78,3,2
+OBS_070,P12,SPL Researcher,7,T4,C2_With_XAI,1,35.11,4,4
+OBS_071,P12,SPL Researcher,7,T5,C1_No_XAI,1,79.69,2,3
+OBS_072,P12,SPL Researcher,7,T6,C2_With_XAI,1,37.02,3,4

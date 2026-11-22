@@ -1,0 +1,17 @@
+\begin{table*}[t]
+\centering
+\caption{Dimension 1 (RQ1): Predictive Performance Across 30 Stochastic Runs (Mean $\pm$ SD, Holm-Bonferroni Adjusted $p$, and Cliff's $\delta$).}
+\label{tab:res_d1_predictive}
+\footnotesize
+\begin{tabular}{l c c c c c c c}
+\toprule
+\textbf{Model} & \textbf{F1-Score} & \textbf{Precision} & \textbf{Recall} & \textbf{AUC-ROC} & \textbf{Latency MAPE} & \textbf{Adj. $p$} & \textbf{Cliff's $\delta$} \\
+\midrule
+Static Threshold & 0.448 $\pm$ 0.003 & 0.288 & 0.999 & 0.724 & 24.50\% & $<0.001$ & +1.00 (large) \\
+PIM Siegmund & 0.613 $\pm$ 0.014 & 0.620 & 0.607 & 0.853 & 4.92\% & $<0.001$ & -1.00 (large) \\
+MLP Neural & 0.673 $\pm$ 0.013 & 0.689 & 0.658 & 0.902 & 9.80\% & $<0.001$ & -1.00 (large) \\
+Plain GBDT & 0.739 $\pm$ 0.013 & 0.857 & 0.649 & 0.946 & 7.40\% & $<0.001$ & -1.00 (large) \\
+Proposed Hybrid ML & 0.531 $\pm$ 0.021 & 0.978 & 0.365 & 0.938 & 3.28\% & --- & --- \\
+\bottomrule
+\end{tabular}
+\end{table*}
